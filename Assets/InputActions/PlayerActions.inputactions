@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "PlayerActions",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "9d06af8d-8616-4289-bf73-978148b66859",
+            "actions": [
+                {
+                    "name": "CycleWeapon",
+                    "type": "Button",
+                    "id": "ba73d9fe-ea42-450d-aa2d-80a1c8898cbb",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "e5bbc317-15dc-4fa3-bebc-1c8bda7ca358",
+                    "path": "<Keyboard>/tab",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "CycleWeapon",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

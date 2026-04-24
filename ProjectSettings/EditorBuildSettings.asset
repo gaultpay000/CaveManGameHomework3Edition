@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Grugs Village.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Boss.unity
+    guid: c38830b61b918dc4db8bdcad985027cf
+  - enabled: 1
+    path: Assets/Scenes/Training Base.unity
+    guid: 5ea704f31f1870d46bbe875afc5186d4
+  - enabled: 1
+    path: Assets/Scenes/Boss 2.unity
+    guid: 95bcbaf02f9aa6a45b9ee6a7db5aa37c
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 7d36a66648121984aa5375b41153c4f8
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 555c5597f9ac2974cb6907831b652621, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
